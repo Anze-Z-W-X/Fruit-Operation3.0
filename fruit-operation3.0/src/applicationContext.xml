@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+    <bean id="fruit" class="com.fruit.controllers.FruitController"/>
+</beans>
+
+<!--
+1.概念
+HTML : 超文本标记语言
+XML : 可扩展的标记语言
+HTML是XML的一个子集
+
+2.XML包含三个部分：
+1) XML声明 ， 而且声明这一行代码必须在XML文件的第一行
+2) DTD 文档类型定义
+3) XML正文
+ -->
